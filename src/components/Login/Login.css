@@ -1,0 +1,41 @@
+.from-container{
+    width: 500px;
+    height: 600px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: 1px solid #95A0A7;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.from-title{
+    font-size: 35px;
+    font-weight: 200px;
+    color: rgb(2, 52, 69);
+}
+.input-group label{
+    display: block;
+}
+.input-group input{
+    width: 415px;
+    height: 55px;
+    border-radius: 10px;
+    font-size: 20px;
+   
+}
+.input-group{
+   margin-bottom: 10px;
+}
+.form-submit{
+    background-color: rgb(252, 165, 33);
+    width: 415px;
+    height: 55px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+}
+ .form-link{
+    color: rgb(216, 130, 3);
+    text-decoration: none;
+}
